@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://octopuslux.com/assets/img/banner_octopus_lux.png" width="100%" />
+</p>
 <h1 align="center">Hola, soy Juan Manuel 👋</h1>
 
 <p align="center">
